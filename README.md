@@ -28,6 +28,9 @@ coming-soon/
 
 Coming soon via GitHub Pages.
 
+## 📸 Preview
+
+![Coming Soon Page](preview.png)
 
 ## 📈 Future Improvements
 
